@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reagan-Muwanika aka Mure persuing a Bachelor's Degree in Information Technology and Computing in Uganda, East Africa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, MySQL and Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, MySQL, Flask and Django
+- 💞️ I’m looking to collaborate on various projects...
 - 📫 How to reach me +256708114809/+256783796037, reaganmuwanika647@gmail.com, @muwanikareagan1 on X, Reagan Mure Muwanika on FaceBook
 
 <!---
